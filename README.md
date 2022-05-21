@@ -14,6 +14,7 @@ All Projects & Dapps MUST include a Name, Description & Logo. You can also optio
 
 * Tags MUST be accurate and align with your Project / Dapp
 
+```
 ---
 name: "Project Name"
 description: "short explanation of your project / dapp"
@@ -23,3 +24,4 @@ status: "active"
 website: "website url"
 twitter: "twitter profile url"
 ---
+```
